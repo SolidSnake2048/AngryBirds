@@ -18,7 +18,7 @@ var counter=0;
 
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
-    getBackgroundImage();
+    //getBackgroundImage();
     
 }
 
